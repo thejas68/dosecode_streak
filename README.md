@@ -1,7 +1,7 @@
 # 🚀 DoseCode – Python Tricky Snippets
 
 Welcome to **DoseCode** 💡
-A collection of short, tricky Python code snippets designed to test and improve your understanding from my instagram Page @dosecode with over 3500 + Followers
+A collection of short, tricky Python code snippets designed to test and improve your understanding from my instagram Page @dosecode with over 3900 + Followers
 
 ---
 
